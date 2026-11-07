@@ -1,0 +1,7 @@
+[2026-11-07T13:12:00Z] === AST ITERATION 1 START | repo=ansible-collections/hashicorp.vault sha=d5f9deee ===
+[2026-11-07T13:12:00Z] [iter=1] PHASE START: ast repo=ansible-collections/hashicorp.vault sha=d5f9deee
+[2026-11-07T13:12:00Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T13:12:43Z] [iter=1] AST chunks built count=1 triples=412171
+[2026-11-07T13:12:43Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d5f9deee0d7fb46c77cf77e6da4026f817c7e605/.complete
+[2026-11-07T13:12:43Z] [iter=1] PHASE END: ast elapsed_s=43 elapsed_min=0.7
+[2026-11-07T13:12:43Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
